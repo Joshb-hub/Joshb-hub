@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - Python 🐍  | JavaScript ⚡ | SQL 💢
 
 ### **🌐 Web Development:**
-- **Frontend:** React.js ⚛, HTML5, CSS3, TailwindCSS, Bootstrap
-- **Backend:** Node.js, Express.js, Django, Flask
+- **Frontend:** React.js ⚛, HTML5, CSS3, TailwindCSS, Bootstrap, JavaScript
+- **Backend:** MERN stack 
 - **Databases:** MongoDB, Firebase, PostgreSQL
 
 ### **🛠️ Tools & Technologies:**
