@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an Electronics and Communication Engineering (
 Here are some ideas to get you started:
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with full tack(mern)
-- 📫 How to reach me: https://www.linkedin.com/in/joshita-bhattacharyya-3200a3267/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshita-bhattacharyya-3200a3267/)
 - 😄 Pronouns: she
 - ⚡ Fun fact: i love dancing
 
@@ -47,8 +47,8 @@ More projects can be found in my repositories! 🚀
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/joshita-bhattacharyya-3200a3267/)
-- **GitHub:** [Your GitHub](https://github.com/Joshb-hub)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/joshita-bhattacharyya-3200a3267/)
+- **GitHub:** [GitHub](https://github.com/Joshb-hub)
 - **Email:** your-joshitabhattacharyya@gmail.com
 
 Let's collaborate and build amazing things together! 😊✨
