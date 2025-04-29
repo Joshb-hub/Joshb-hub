@@ -49,7 +49,7 @@ More projects can be found in my repositories! 🚀
 ## 📫 Connect with Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/joshita-bhattacharyya-3200a3267/)
 - **GitHub:** [GitHub](https://github.com/Joshb-hub)
-- **Email:** your-joshitabhattacharyya@gmail.com
+- **Email:** [Gmail](joshitabhattacharyya@gmail.com)
 
 Let's collaborate and build amazing things together! 😊✨
 
