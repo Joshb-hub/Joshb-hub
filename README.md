@@ -33,14 +33,19 @@ Here are some ideas to get you started:
 
 ---
 
-## 📌 Projects
+# 📌 Projects
 
-### 🔹 **Chat App (MERN Stack)**
-- Developed a real-time chat application using **MongoDB, Express.js, React, and Node.js**
-- Implemented authentication, messaging, and database storage
+Frontend-focused projects showcasing clean UI, responsiveness, and structured design.
 
-### 🔹 **Portfolio Website (React.js, Tailwind CSS)**
-- Designed and deployed a personal portfolio showcasing my projects and skills
+## 🔹 SkillSwap Platform  
+**HTML, Tailwind CSS** – Peer-to-peer skill exchange platform enabling mutual learning with a clean, responsive UI.
+
+## 🔹 EduBridge – Unified Learning Hub  
+**HTML, Tailwind CSS** – Educational platform organizing syllabus-based content from LKG to Postgraduate level.
+
+## 🔹 Portfolio Website  
+**React.js, Tailwind CSS** – Personal portfolio with a modern, responsive design and smooth UI.
+
 
 More projects can be found in my repositories! 🚀
 
