@@ -122,7 +122,7 @@ Currently Learning:
 
 ### Query-Adaptive Dynamic Retrieval-Augmented Generation
 
-An intelligent PDF Question Answering system implementing adaptive retrieval strategies for enhanced response quality.
+An intelligent Retrieval-Augmented Generation (RAG) framework designed for PDF Question Answering using adaptive retrieval strategies and semantic search.
 
 **Tech Stack**
 
@@ -133,28 +133,8 @@ An intelligent PDF Question Answering system implementing adaptive retrieval str
 * Query Classification Engine
 * Dynamic Top-K Retrieval
 * Semantic PDF Search
-* Context-Aware Response Generation
+* Context-Aware Answer Generation
 * Adaptive Retrieval Pipeline
-
----
-
-## 💬 Chattrix
-
-### Real-Time Communication Platform
-
-Modern chat application enabling seamless real-time communication and state-managed messaging.
-
-**Tech Stack**
-
-`React` • `Redux` • `Socket.io` • `Axios` • `Tailwind CSS`
-
-#### Key Features
-
-* Real-Time Messaging
-* User Authentication
-* Global State Management
-* Responsive UI Design
-* Live Communication Engine
 
 ---
 
@@ -162,7 +142,7 @@ Modern chat application enabling seamless real-time communication and state-mana
 
 ### Business Intelligence & Analytics Solution
 
-Interactive Power BI dashboard transforming sales data into actionable business insights.
+Interactive Power BI dashboard transforming sales data into actionable business insights through KPI monitoring and analytical reporting.
 
 **Tech Stack**
 
@@ -171,12 +151,72 @@ Interactive Power BI dashboard transforming sales data into actionable business 
 #### Key Features
 
 * Revenue & Profit Analysis
-* KPI Tracking
-* Regional Performance Insights
-* Product Analytics
-* Customer Segmentation
+* KPI Tracking and Monitoring
+* Customer Behavior Insights
+* Regional Sales Performance Analysis
+* Product Performance Analytics
+* Interactive Business Reporting
 
 ---
+
+## 🎓 EduBridge
+
+### Unified Learning Platform
+
+A centralized educational platform designed to organize learning resources through structured navigation and responsive user interfaces.
+
+**Tech Stack**
+
+`HTML5` • `CSS3` • `Tailwind CSS`
+
+#### Key Features
+
+* Subject-Wise Resource Organization
+* Responsive and Mobile-First Design
+* Reusable UI Components
+* Accessibility-Focused Interface
+* Cross-Browser Compatibility
+
+---
+
+## 🩺 SwasthyaSetu
+
+### Health Education Platform
+
+A health awareness platform delivering structured educational content through clean, responsive, and user-friendly interfaces.
+
+**Tech Stack**
+
+`HTML5` • `CSS3` • `Tailwind CSS`
+
+#### Key Features
+
+* Health Information Portal
+* User-Centric Navigation
+* Responsive Layout Design
+* Accessibility-Oriented UI
+* Enhanced Content Readability
+
+---
+
+## 🤝 SkillSwap
+
+### Peer-to-Peer Skill Exchange Platform
+
+A skill-sharing platform enabling users to discover, showcase, and exchange skills through an intuitive and responsive interface.
+
+**Tech Stack**
+
+`HTML5` • `CSS3` • `Tailwind CSS`
+
+#### Key Features
+
+* Skill Discovery Interface
+* Categorized User Profiles
+* Responsive Design Architecture
+* Structured Interaction Workflows
+* Accessibility-Focused User Experience
+
 
 # 💼 Experience
 
