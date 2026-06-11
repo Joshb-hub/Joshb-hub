@@ -2,160 +2,235 @@
 
 # Hi 👋, I'm Joshita Bhattacharyya
 
-### Frontend Developer • AI Enthusiast • Problem Solver
+### 🚀 Frontend Developer | AI Enthusiast | Problem Solver
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="YOUR_GITHUB_URL">GitHub</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+AI-Powered+Applications;React+%7C+Python+%7C+TailwindCSS;Learning+MERN+and+Generative+AI;Always+Learning+Always+Building" />
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
 🎓 B.Tech in Electronics & Communication Engineering
 
-💻 Frontend Developer passionate about building responsive and user-friendly web applications
+💻 Frontend Developer focused on building responsive and accessible web applications
 
-🤖 Exploring AI-powered applications, RAG systems, and modern development workflows
+🤖 Exploring Generative AI, Retrieval-Augmented Generation (RAG), and AI-assisted development
 
-📈 Interested in Full Stack Development, Data Analytics, and Problem Solving
+📊 Interested in Data Analytics, Problem Solving, and Modern Software Development
 
-🧩 Solved 100+ DSA problems on LeetCode
+🏆 Smart India Hackathon Participant
 
-🏆 Participated in Smart India Hackathon (SIH) and multiple technology initiatives
+🧩 Solved 100+ DSA Problems
 
----
+🌱 Currently Learning MERN Stack, System Design, and Advanced React
 
-## 🌱 Currently Learning
-
-* Advanced React.js
-* MERN Stack Development
-* Retrieval-Augmented Generation (RAG)
-* System Design Fundamentals
-* Data Structures & Algorithms
+⚡ Fun Fact: I love dancing and turning ideas into products
 
 ---
 
-## 💼 Experience
+# 🛠️ Tech Arsenal
 
-### Web Developer Intern | Webstack Academy
+### Programming Languages
 
-* Developed responsive web interfaces using React, JavaScript, HTML, CSS, and Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql"/>
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+### AI & Analytics
+
+* LangChain
+* FAISS
+* Hugging Face
+* Prompt Engineering
+* Power BI
+* DAX
+* KPI Analytics
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ AegisRAG
+
+### Query-Adaptive Dynamic Retrieval-Augmented Generation
+
+A Dynamic RAG framework for intelligent PDF Question Answering using adaptive retrieval strategies.
+
+**Tech Stack**
+
+Python • Streamlit • FAISS • LangChain • HuggingFace • LLMs
+
+### Highlights
+
+✅ Query Classification
+
+✅ Dynamic Top-K Retrieval
+
+✅ Semantic PDF Search
+
+✅ Context-Aware Answer Generation
+
+---
+
+## 🎓 EduBridge
+
+Unified Learning Platform designed to organize educational resources from school to higher education.
+
+**Tech:** HTML • CSS • TailwindCSS
+
+---
+
+## 🩺 SwasthyaSetu
+
+Health Education Platform promoting accessible and structured health awareness content.
+
+**Tech:** HTML • CSS • TailwindCSS
+
+---
+
+## 🔄 SkillSwap
+
+Peer-to-Peer Skill Exchange Platform enabling collaborative learning and knowledge sharing.
+
+**Tech:** HTML • CSS • TailwindCSS
+
+---
+
+# 💼 Experience
+
+### 🌐 Web Developer Intern — Webstack Academy
+
+* Built responsive user interfaces using React and Tailwind CSS
 * Integrated REST APIs with frontend applications
-* Improved UI responsiveness across devices
+* Improved responsiveness across devices
 
-### Power BI Intern | Microsoft Elevate (AICTE)
+### 📊 Power BI Intern — Microsoft Elevate (AICTE)
 
-* Built interactive dashboards
-* Performed data cleaning and transformation
-* Worked with DAX and KPI analytics
+* Created interactive dashboards
+* Performed data transformation and analytics
+* Built KPI-based reports using DAX
 
-### Business Development Intern | Banao Technologies
+### 📈 Business Development Intern — Banao Technologies
 
-* Professional outreach and stakeholder communication
-* SEO and workflow automation
+* Professional outreach and communication
+* SEO support and workflow optimization
 * Cross-functional collaboration
 
 ---
 
-## 🛠️ Tech Stack
+# 🏆 Achievements
 
-### Languages
+🥇 Oracle AI Foundations Associate (98%)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+🏅 Smart India Hackathon Participant
 
-### Frontend
+🏅 Unstop Talent Awards 2026
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+🏅 TATA Crucible Campus Quiz Participant
 
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+🏅 100+ DSA Problems Solved
 
 ---
 
-## 📌 Featured Projects
+# 📚 Currently Exploring
 
-### 🛡️ AegisRAG
-
-Query-Adaptive Dynamic Retrieval-Augmented Generation System for PDF Question Answering.
-
-**Tech:** Python, Streamlit, FAISS, LangChain, LLMs
-
----
-
-### 🎓 EduBridge
-
-Unified Learning Platform with structured educational resources and responsive UI.
-
-**Tech:** HTML, CSS, Tailwind CSS
+```python
+learning = [
+    "MERN Stack",
+    "System Design",
+    "Dynamic Programming",
+    "Generative AI",
+    "Agentic AI",
+    "Retrieval-Augmented Generation",
+]
+```
 
 ---
 
-### 🩺 SwasthyaSetu
+# 📊 GitHub Analytics
 
-Health Education Platform focused on accessibility and structured learning.
+<p align="center">
 
-**Tech:** HTML, CSS, Tailwind CSS
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-### 🔄 SkillSwap
+</p>
 
-Peer-to-Peer Skill Exchange Platform enabling collaborative learning.
+<p align="center">
 
-**Tech:** HTML, CSS, Tailwind CSS
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
----
-
-## 🏆 Certifications
-
-* Oracle AI Foundations Associate (98%)
-* Microsoft Elevate – Power BI
-* Career Essentials in Software Development
-* Web Development Training
-* Python Programming Certifications
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
----
-
-## 📫 Connect With Me
-
-📧 Email: your_email_here
-
-💼 LinkedIn: your_linkedin_here
-
-🌐 Portfolio: your_portfolio_here
-
-💻 GitHub: your_github_here
+</p>
 
 ---
 
-### ⭐ “Always learning, always building.”
+# 📫 Connect With Me
+
+### Let's connect and build something amazing 🚀
+
+📧 Email: YOUR_EMAIL
+
+💼 LinkedIn: YOUR_LINKEDIN_URL
+
+🌐 Portfolio: YOUR_PORTFOLIO_URL
+
+💻 GitHub: YOUR_GITHUB_URL
+
+---
+
+<div align="center">
+
+### ⭐ Always Learning • Always Building • Always Improving
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</div>
