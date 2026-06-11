@@ -8,19 +8,19 @@
 
 <br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/joshita-bhattacharyya-3200a3267/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://joshb-hub.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://github.com/Joshb-hub">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:joshitabhattacharyya@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -32,17 +32,17 @@
 
 🎓 B.Tech in Electronics & Communication Engineering
 
-💻 Frontend Developer focused on building responsive and accessible web applications
+💻 Frontend Developer and AI enthusiast building modern web applications, intelligent systems, and data-driven solutions
 
 🤖 Exploring Generative AI, Retrieval-Augmented Generation (RAG), and AI-assisted development
 
-📊 Interested in Data Analytics, Problem Solving, and Modern Software Development
+📊 Interested in Data Analytics, Business Intelligence, and Software Engineering
 
-🏆 Smart India Hackathon Participant
+🏆 Smart India Hackathon Participant (2023 & 2024)
 
 🧩 Solved 100+ DSA Problems
 
-🌱 Currently Learning MERN Stack, System Design, and Advanced React
+🌱 Currently Learning MERN Stack, System Design, and Agentic AI
 
 ⚡ Fun Fact: I love dancing and turning ideas into products
 
@@ -96,9 +96,7 @@ A Dynamic RAG framework for intelligent PDF Question Answering using adaptive re
 
 **Tech Stack**
 
-Python • Streamlit • FAISS • LangChain • HuggingFace • LLMs
-
-### Highlights
+Python • Streamlit • FAISS • LangChain • Hugging Face • LLMs
 
 ✅ Query Classification
 
@@ -110,11 +108,49 @@ Python • Streamlit • FAISS • LangChain • HuggingFace • LLMs
 
 ---
 
+## 💬 Chattrix
+
+Modern real-time chat platform enabling instant messaging and live communication.
+
+**Tech Stack**
+
+React • Redux • Socket.io • Axios • Tailwind CSS
+
+✅ Real-Time Messaging
+
+✅ User Authentication
+
+✅ Responsive Design
+
+✅ Redux State Management
+
+---
+
+## 📊 E-Commerce Sales Dashboard
+
+Interactive Power BI dashboard transforming sales data into actionable business insights.
+
+**Tech Stack**
+
+Power BI • DAX • Power Query • Data Modeling
+
+✅ KPI Analytics
+
+✅ Customer Insights
+
+✅ Regional Analysis
+
+✅ Product Performance Tracking
+
+---
+
 ## 🎓 EduBridge
 
 Unified Learning Platform designed to organize educational resources from school to higher education.
 
-**Tech:** HTML • CSS • TailwindCSS
+**Tech Stack**
+
+HTML • CSS • Tailwind CSS
 
 ---
 
@@ -122,15 +158,9 @@ Unified Learning Platform designed to organize educational resources from school
 
 Health Education Platform promoting accessible and structured health awareness content.
 
-**Tech:** HTML • CSS • TailwindCSS
+**Tech Stack**
 
----
-
-## 🔄 SkillSwap
-
-Peer-to-Peer Skill Exchange Platform enabling collaborative learning and knowledge sharing.
-
-**Tech:** HTML • CSS • TailwindCSS
+HTML • CSS • Tailwind CSS
 
 ---
 
@@ -138,35 +168,51 @@ Peer-to-Peer Skill Exchange Platform enabling collaborative learning and knowled
 
 ### 🌐 Web Developer Intern — Webstack Academy
 
-* Built responsive user interfaces using React and Tailwind CSS
+* Developed responsive interfaces using React, JavaScript, HTML, CSS, and Tailwind CSS
 * Integrated REST APIs with frontend applications
-* Improved responsiveness across devices
+* Improved UI responsiveness across devices
 
 ### 📊 Power BI Intern — Microsoft Elevate (AICTE)
 
-* Created interactive dashboards
-* Performed data transformation and analytics
-* Built KPI-based reports using DAX
+* Built interactive dashboards
+* Performed data cleaning and transformation
+* Developed KPI reports using DAX
 
 ### 📈 Business Development Intern — Banao Technologies
 
-* Professional outreach and communication
-* SEO support and workflow optimization
-* Cross-functional collaboration
+* Conducted professional outreach and communication
+* Assisted with SEO and workflow automation
+* Collaborated across teams and stakeholders
 
 ---
 
-# 🏆 Achievements
+# 🏆 Certifications
 
 🥇 Oracle AI Foundations Associate (98%)
 
-🏅 Smart India Hackathon Participant
+📊 Power BI for Business Applications — Microsoft Elevate
+
+💻 Web Development Training — Webstack Academy
+
+🐍 Python Programming — Reliance Foundation
+
+🎯 Career Essentials in Software Development — Microsoft & LinkedIn
+
+📚 Introduction to Programming — IBM SkillsBuild & freeCodeCamp
+
+---
+
+# 🏅 Achievements
+
+🏆 Smart India Hackathon Participant (2023 & 2024)
 
 🏅 Unstop Talent Awards 2026
 
 🏅 TATA Crucible Campus Quiz Participant
 
-🏅 100+ DSA Problems Solved
+🧩 Solved 100+ DSA Problems
+
+🎓 CGPA: 7.85/10 (Till Current Semester)
 
 ---
 
@@ -179,7 +225,7 @@ learning = [
     "Dynamic Programming",
     "Generative AI",
     "Agentic AI",
-    "Retrieval-Augmented Generation",
+    "Retrieval-Augmented Generation"
 ]
 ```
 
@@ -189,15 +235,15 @@ learning = [
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joshb-hub&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshb-hub&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Joshb-hub&theme=tokyonight"/>
 
 </p>
 
@@ -207,7 +253,7 @@ learning = [
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshb-hub&theme=tokyo-night"/>
 
 </p>
 
@@ -217,13 +263,13 @@ learning = [
 
 ### Let's connect and build something amazing 🚀
 
-📧 Email: YOUR_EMAIL
+📧 Email: [joshitabhattacharyya@gmail.com](mailto:joshitabhattacharyya@gmail.com)
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: https://www.linkedin.com/in/joshita-bhattacharyya-3200a3267/
 
-🌐 Portfolio: YOUR_PORTFOLIO_URL
+🌐 Portfolio: https://joshb-hub.github.io/portfolio/
 
-💻 GitHub: YOUR_GITHUB_URL
+💻 GitHub: https://github.com/Joshb-hub
 
 ---
 
@@ -231,6 +277,6 @@ learning = [
 
 ### ⭐ Always Learning • Always Building • Always Improving
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Joshb-hub&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </div>
