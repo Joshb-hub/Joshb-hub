@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Joshita Bhattacharyya
 
-### 🚀 Frontend Developer | AI Enthusiast | Problem Solver
+### Frontend Developer • AI Enthusiast • Building Intelligent Applications
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+AI-Powered+Applications;React+%7C+Python+%7C+TailwindCSS;Learning+MERN+and+Generative+AI;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+AI-Powered+Applications;React+%7C+Python+%7C+TailwindCSS;Generative+AI+%7C+RAG+Systems;Always+Learning+Always+Building" />
 
 <br>
 
@@ -24,39 +24,57 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Joshb-hub&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🎓 B.Tech in Electronics & Communication Engineering
+```yaml
+Name: Joshita Bhattacharyya
+Education: B.Tech (Electronics & Communication Engineering)
+CGPA: 7.85/10
 
-💻 Frontend Developer and AI enthusiast building modern web applications, intelligent systems, and data-driven solutions
+Focus Areas:
+  - Frontend Development
+  - Artificial Intelligence
+  - Generative AI
+  - Data Analytics
+  - Software Engineering
 
-🤖 Exploring Generative AI, Retrieval-Augmented Generation (RAG), and AI-assisted development
+Currently Learning:
+  - MERN Stack
+  - System Design
+  - Dynamic Programming
+  - Agentic AI
+  - Advanced RAG Systems
+```
 
-📊 Interested in Data Analytics, Business Intelligence, and Software Engineering
+💡 Passionate about building scalable web applications and AI-powered solutions that solve real-world problems.
 
 🏆 Smart India Hackathon Participant (2023 & 2024)
 
 🧩 Solved 100+ DSA Problems
 
-🌱 Currently Learning MERN Stack, System Design, and Agentic AI
+📊 Power BI Dashboard Developer
 
-⚡ Fun Fact: I love dancing and turning ideas into products
+🤖 Exploring LLMs, RAG Architectures, LangChain, and AI Agents
 
 ---
 
-# 🛠️ Tech Arsenal
+# ⚙️ Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,javascript,mysql"/>
 </p>
 
-### Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
@@ -68,121 +86,120 @@
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase"/>
 </p>
 
-### Tools & Platforms
+### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
-
-### AI & Analytics
 
 * LangChain
 * FAISS
 * Hugging Face
 * Prompt Engineering
+* Generative AI
+* Retrieval-Augmented Generation (RAG)
+
+### Analytics
+
 * Power BI
 * DAX
 * KPI Analytics
+* Data Modeling
+* Data Cleaning
+* Dashboard Development
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 ## 🛡️ AegisRAG
 
 ### Query-Adaptive Dynamic Retrieval-Augmented Generation
 
-A Dynamic RAG framework for intelligent PDF Question Answering using adaptive retrieval strategies.
+An intelligent PDF Question Answering system implementing adaptive retrieval strategies for enhanced response quality.
 
 **Tech Stack**
 
-Python • Streamlit • FAISS • LangChain • Hugging Face • LLMs
+`Python` • `LangChain` • `FAISS` • `Streamlit` • `Hugging Face` • `LLMs`
 
-✅ Query Classification
+#### Key Features
 
-✅ Dynamic Top-K Retrieval
-
-✅ Semantic PDF Search
-
-✅ Context-Aware Answer Generation
+* Query Classification Engine
+* Dynamic Top-K Retrieval
+* Semantic PDF Search
+* Context-Aware Response Generation
+* Adaptive Retrieval Pipeline
 
 ---
 
 ## 💬 Chattrix
 
-Modern real-time chat platform enabling instant messaging and live communication.
+### Real-Time Communication Platform
+
+Modern chat application enabling seamless real-time communication and state-managed messaging.
 
 **Tech Stack**
 
-React • Redux • Socket.io • Axios • Tailwind CSS
+`React` • `Redux` • `Socket.io` • `Axios` • `Tailwind CSS`
 
-✅ Real-Time Messaging
+#### Key Features
 
-✅ User Authentication
-
-✅ Responsive Design
-
-✅ Redux State Management
+* Real-Time Messaging
+* User Authentication
+* Global State Management
+* Responsive UI Design
+* Live Communication Engine
 
 ---
 
 ## 📊 E-Commerce Sales Dashboard
 
+### Business Intelligence & Analytics Solution
+
 Interactive Power BI dashboard transforming sales data into actionable business insights.
 
 **Tech Stack**
 
-Power BI • DAX • Power Query • Data Modeling
+`Power BI` • `DAX` • `Power Query` • `Data Modeling`
 
-✅ KPI Analytics
+#### Key Features
 
-✅ Customer Insights
-
-✅ Regional Analysis
-
-✅ Product Performance Tracking
-
----
-
-## 🎓 EduBridge
-
-Unified Learning Platform designed to organize educational resources from school to higher education.
-
-**Tech Stack**
-
-HTML • CSS • Tailwind CSS
-
----
-
-## 🩺 SwasthyaSetu
-
-Health Education Platform promoting accessible and structured health awareness content.
-
-**Tech Stack**
-
-HTML • CSS • Tailwind CSS
+* Revenue & Profit Analysis
+* KPI Tracking
+* Regional Performance Insights
+* Product Analytics
+* Customer Segmentation
 
 ---
 
 # 💼 Experience
 
-### 🌐 Web Developer Intern — Webstack Academy
+### 🌐 Web Developer Intern | Webstack Academy
 
-* Developed responsive interfaces using React, JavaScript, HTML, CSS, and Tailwind CSS
+* Developed responsive React-based web interfaces
 * Integrated REST APIs with frontend applications
-* Improved UI responsiveness across devices
+* Enhanced UI responsiveness and accessibility
+* Collaborated on scalable frontend architecture
 
-### 📊 Power BI Intern — Microsoft Elevate (AICTE)
+### 📊 Power BI Intern | Microsoft Elevate (AICTE)
 
-* Built interactive dashboards
-* Performed data cleaning and transformation
-* Developed KPI reports using DAX
+* Built interactive business dashboards
+* Performed data transformation and cleaning
+* Developed DAX-powered KPI reports
+* Generated analytical insights from datasets
 
-### 📈 Business Development Intern — Banao Technologies
+### 📈 Business Development Intern | Banao Technologies
 
-* Conducted professional outreach and communication
-* Assisted with SEO and workflow automation
-* Collaborated across teams and stakeholders
+* Conducted large-scale professional outreach
+* Assisted in SEO and workflow automation
+* Improved communication tracking workflows
+* Collaborated across technical and business teams
 
 ---
 
@@ -212,26 +229,11 @@ HTML • CSS • Tailwind CSS
 
 🧩 Solved 100+ DSA Problems
 
-🎓 CGPA: 7.85/10 (Till Current Semester)
+🎓 CGPA: 7.85/10
 
 ---
 
-# 📚 Currently Exploring
-
-```python
-learning = [
-    "MERN Stack",
-    "System Design",
-    "Dynamic Programming",
-    "Generative AI",
-    "Agentic AI",
-    "Retrieval-Augmented Generation"
-]
-```
-
----
-
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -249,7 +251,7 @@ learning = [
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
 
@@ -259,9 +261,20 @@ learning = [
 
 ---
 
-# 📫 Connect With Me
+# 📚 Current Learning Journey
 
-### Let's connect and build something amazing 🚀
+```python
+learning = {
+    "Frontend": ["React", "Redux", "Advanced JavaScript"],
+    "Backend": ["Node.js", "Express.js", "MongoDB"],
+    "AI": ["RAG", "Agentic AI", "Generative AI"],
+    "CS Fundamentals": ["System Design", "Dynamic Programming"]
+}
+```
+
+---
+
+# 📫 Connect With Me
 
 📧 Email: [joshitabhattacharyya@gmail.com](mailto:joshitabhattacharyya@gmail.com)
 
@@ -275,8 +288,8 @@ learning = [
 
 <div align="center">
 
-### ⭐ Always Learning • Always Building • Always Improving
+### ⭐ Building • Learning • Growing
 
-<img src="https://komarev.com/ghpvc/?username=Joshb-hub&label=Profile+Views&color=0e75b6&style=flat"/>
+*"Code. Create. Innovate."*
 
 </div>
