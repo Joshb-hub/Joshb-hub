@@ -555,31 +555,6 @@ Currently Learning:
 
 </div>
 
----
-
-# 🌱 Growth Journey
-
-```text
-Programming Basics
-        │
-        ▼
-Web Development
-        │
-        ▼
-Power BI & Analytics
-        │
-        ▼
-Hackathons
-        │
-        ▼
-Artificial Intelligence
-        │
-        ▼
-Generative AI & RAG
-        │
-        ▼
-Building Intelligent Applications 🚀
-```
 
 ---
 
@@ -636,22 +611,6 @@ Building Intelligent Applications 🚀
 
 ---
 
-# 💡 GitHub Highlights
-
-<div align="center">
-
-| 🚀 Category | Description |
-|-------------|-------------|
-| ⭐ Repositories | Projects focused on AI, Frontend & Analytics |
-| 🔥 Contributions | Consistent development activity |
-| 📈 Growth | Continuous learning through projects |
-| 🤝 Collaboration | Open to teamwork and innovation |
-| 🌱 Learning | Always exploring new technologies |
-
-</div>
-
----
-
 # 📌 Developer Philosophy
 
 > **"I believe that every project is an opportunity to learn, every challenge is an opportunity to improve, and every line of code is a step toward building meaningful solutions."**
@@ -680,7 +639,7 @@ Building Intelligent Applications 🚀
 
 <div align="center">
 
-<img src="github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="snake.yml" alt="Contribution Snake"/>
 
 </div>
 
@@ -777,27 +736,6 @@ I enjoy collaborating on projects related to:
 - 💡 Innovative Software Solutions
 
 If you have an interesting project or idea, I'd love to connect and collaborate.
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:joshitabhattacharyya@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/joshita-bhattacharyya-3200a3267/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://joshb-hub.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/Joshb-hub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
