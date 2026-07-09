@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,50:2563EB,100:06B6D4&text=Joshita%20Bhattacharyya&fontColor=ffffff&fontSize=42&fontAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,50:2563EB,100:06B6D4&text=Joshita%20Bhattacharyya&fontColor=ffffff&fontSize=42&fontAlignY=60&animation=fadeIn"/>
 
 <img src="girl-coding-pixel.svg" alt="Pixel art of a girl coding" width="200"/>
 
@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Joshb-hub&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 <img src="https://img.shields.io/github/followers/Joshb-hub?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/github/stars/Joshb-hub?style=for-the-badge&logo=github"/>
