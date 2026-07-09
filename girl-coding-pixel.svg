@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 170" width="420" shape-rendering="crispEdges">
+  <style>
+    .bg { fill: #0d1117; }
+    .glow { animation: glow 2.4s ease-in-out infinite; }
+    @keyframes glow {
+      0%, 100% { opacity: 0.55; }
+      50% { opacity: 1; }
+    }
+    .eye { transform-box: fill-box; transform-origin: center; animation: blink 4s ease-in-out infinite; }
+    @keyframes blink {
+      0%, 92%, 100% { transform: scaleY(1); }
+      95% { transform: scaleY(0.15); }
+    }
+    .hand-l { transform-box: fill-box; transform-origin: center; animation: typeL 0.6s steps(2) infinite; }
+    .hand-r { transform-box: fill-box; transform-origin: center; animation: typeR 0.5s steps(2) infinite; }
+    @keyframes typeL { 0%,100% { transform: translateY(0px);} 50% { transform: translateY(2px);} }
+    @keyframes typeR { 0%,100% { transform: translateY(2px);} 50% { transform: translateY(0px);} }
+    .cursor { animation: blinkCursor 1s steps(1) infinite; }
+    @keyframes blinkCursor { 0%,50% { opacity: 1; } 51%,100% { opacity: 0; } }
+    .float1 { animation: floatUp 3.2s ease-in infinite; }
+    .float2 { animation: floatUp 3.2s ease-in infinite; animation-delay: 1.05s; }
+    .float3 { animation: floatUp 3.2s ease-in infinite; animation-delay: 2.1s; }
+    @keyframes floatUp {
+      0%   { transform: translateY(0px); opacity: 0; }
+      15%  { opacity: 1; }
+      85%  { opacity: 1; }
+      100% { transform: translateY(-38px); opacity: 0; }
+    }
+    .code-text { font-family: 'Courier New', monospace; font-size: 9px; font-weight: bold; }
+    .sparkle { animation: twinkle 1.8s ease-in-out infinite; }
+    @keyframes twinkle { 0%,100% { opacity: 0.2; } 50% { opacity: 1; } }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="220" height="170" rx="10"/>
+
+  <!-- floating code symbols -->
+  <text class="code-text float1" x="18" y="60" fill="#06B6D4">&lt;/&gt;</text>
+  <text class="code-text float2" x="150" y="50" fill="#8B5CF6">{ }</text>
+  <text class="code-text float3" x="30" y="40" fill="#F472B6">01</text>
+  <text class="code-text float1" x="165" y="70" fill="#22D3EE" style="animation-delay:1.6s">#!</text>
+
+  <!-- sparkles -->
+  <rect class="sparkle" x="24" y="20" width="3" height="3" fill="#FDE68A"/>
+  <rect class="sparkle" x="188" y="30" width="3" height="3" fill="#FDE68A" style="animation-delay:0.6s"/>
+  <rect class="sparkle" x="196" y="90" width="3" height="3" fill="#FDE68A" style="animation-delay:1.2s"/>
+
+  <!-- desk -->
+  <rect x="20" y="128" width="180" height="10" fill="#7C4A2D"/>
+  <rect x="20" y="138" width="180" height="4" fill="#5C3620"/>
+
+  <!-- laptop base -->
+  <rect x="80" y="112" width="60" height="8" fill="#374151"/>
+  <rect x="76" y="120" width="68" height="4" fill="#1F2937"/>
+
+  <!-- laptop screen frame -->
+  <rect x="82" y="70" width="56" height="44" rx="2" fill="#111827"/>
+  <!-- screen glow -->
+  <rect class="glow" x="86" y="74" width="48" height="36" fill="#2563EB"/>
+  <!-- code lines on screen -->
+  <rect x="90" y="78" width="18" height="3" fill="#22D3EE"/>
+  <rect x="90" y="84" width="26" height="3" fill="#A78BFA"/>
+  <rect x="90" y="90" width="14" height="3" fill="#F472B6"/>
+  <rect x="90" y="96" width="22" height="3" fill="#34D399"/>
+  <rect class="cursor" x="90" y="102" width="6" height="3" fill="#FFFFFF"/>
+
+  <!-- chair -->
+  <rect x="96" y="118" width="28" height="6" fill="#4B5563"/>
+
+  <!-- body / shirt -->
+  <rect x="92" y="90" width="36" height="30" rx="4" fill="#0EA5A0"/>
+
+  <!-- arms -->
+  <rect class="hand-l" x="86" y="104" width="10" height="8" rx="2" fill="#F0C29A"/>
+  <rect class="hand-r" x="124" y="104" width="10" height="8" rx="2" fill="#F0C29A"/>
+
+  <!-- neck -->
+  <rect x="104" y="80" width="12" height="10" fill="#F0C29A"/>
+
+  <!-- head -->
+  <rect x="92" y="52" width="36" height="30" rx="8" fill="#F5CBA0"/>
+
+  <!-- hair back -->
+  <rect x="88" y="46" width="44" height="16" rx="6" fill="#5B2C83"/>
+  <!-- pigtails -->
+  <rect x="80" y="54" width="10" height="26" rx="4" fill="#5B2C83"/>
+  <rect x="130" y="54" width="10" height="26" rx="4" fill="#5B2C83"/>
+  <circle cx="85" cy="80" r="4" fill="#EC4899"/>
+  <circle cx="135" cy="80" r="4" fill="#EC4899"/>
+  <!-- fringe -->
+  <rect x="96" y="52" width="28" height="8" rx="3" fill="#5B2C83"/>
+
+  <!-- glasses -->
+  <rect x="98" y="64" width="10" height="7" rx="2" fill="none" stroke="#111827" stroke-width="2"/>
+  <rect x="112" y="64" width="10" height="7" rx="2" fill="none" stroke="#111827" stroke-width="2"/>
+  <rect x="108" y="67" width="4" height="2" fill="#111827"/>
+
+  <!-- eyes -->
+  <rect class="eye" x="101" y="66" width="4" height="3" fill="#111827"/>
+  <rect class="eye" x="115" y="66" width="4" height="3" fill="#111827"/>
+
+  <!-- smile -->
+  <rect x="105" y="73" width="10" height="2" rx="1" fill="#B45309"/>
+
+  <!-- coffee mug -->
+  <rect x="150" y="120" width="10" height="10" fill="#F59E0B"/>
+  <rect x="160" y="122" width="4" height="4" fill="none" stroke="#F59E0B" stroke-width="1.5"/>
+  <rect class="glow" x="151" y="115" width="8" height="4" fill="#9CA3AF" opacity="0.4"/>
+</svg>
