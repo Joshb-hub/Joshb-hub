@@ -1,6 +1,5 @@
 <!-- ========================================================= -->
 <!--                    JOSHITA BHATTACHARYYA                   -->
-<!--   Software Developer • Frontend • AI • Power BI • LinkedIn Outreach   -->
 <!-- ========================================================= -->
 
 <div align="center">
