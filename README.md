@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,50:2563EB,100:06B6D4&text=Joshita%20Bhattacharyya&fontColor=ffffff&fontSize=42&fontAlignY=38&animation=fadeIn"/>
 
-<img src="girl-coding-pixel.svg" alt="Pixel art of a girl coding" width="200"/>
+<img src="girl-coding-pixel.svg" alt="Pixel art of a girl coding" width="300"/>
 
 </div>
 
@@ -437,72 +437,49 @@ Currently Learning:
 ---
 
 ## 🥇 Oracle AI Foundations Associate — Score: 98%
-
 <p>
-<img src="https://img.shields.io/badge/Oracle-Red?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-007ACC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Certification-Completed-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oracle-1E3A8A?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-0EA5E9?style=for-the-badge"/>
 </p>
-
 **Highlights:** AI Fundamentals · Machine Learning Concepts · Responsible AI · Generative AI Foundations
-
 ---
-
 ## 📊 Power BI for Business Applications — Microsoft Elevate (AICTE)
-
 <p>
-<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Business%20Analytics-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft-3B82F6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-0891B2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Analytics-1D4ED8?style=for-the-badge"/>
 </p>
-
 **Skills Gained:** Dashboard Development · Power Query · DAX · KPI Reporting · Data Visualization
-
 ---
-
 ## 💻 Web Development Training — Webstack Academy
-
 <p>
 <img src="https://img.shields.io/badge/Web%20Development-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Frontend-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-3B82F6?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
-
 **Skills Gained:** Responsive Web Development · React · REST APIs · Modern UI Design
-
 ---
-
 ## 🐍 Python Programming — Reliance Foundation
-
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reliance%20Foundation-0033A0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reliance%20Foundation-1D4ED8?style=for-the-badge"/>
 </p>
-
 **Skills Gained:** Python Fundamentals · Object-Oriented Programming · Problem Solving · Programming Logic
-
 ---
-
 ## 🎯 Career Essentials in Software Development — Microsoft & LinkedIn Learning
-
 <p>
-<img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-2563EB?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
-
 **Skills Gained:** Software Development Lifecycle · Collaboration · Version Control · Industry Best Practices
-
 ---
-
 ## 📚 Introduction to Programming — IBM SkillsBuild & freeCodeCamp
-
 <p>
-<img src="https://img.shields.io/badge/IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM-1E3A8A?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/freeCodeCamp-0F172A?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 </p>
-
 **Skills Gained:** Programming Fundamentals · Algorithms · Computational Thinking · Coding Best Practices
-
 ---
 
 # 🏅 Achievements
@@ -563,12 +540,9 @@ Currently Learning:
 </div>
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Joshb-hub&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshb-hub&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Joshb-hub&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joshb-hub&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 </div>
 
 ## 🔥 Contribution Streak
@@ -621,39 +595,11 @@ Currently Learning:
 
 </div>
 
-## 📊 GitHub Metrics Dashboard
-
-<div align="center">
-
-<img width="100%" src="metrics.yml"/>
-
-</div>
-
-> ⚡ This dashboard is generated automatically by the **`metrics.yml`** GitHub Action included in this package. It updates on a schedule and shows repository statistics, achievements, coding habits, and contribution metrics.
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="snake.yml" alt="Contribution Snake"/>
-
-</div>
-
-> The animated contribution snake is generated automatically each day by the **`snake.yml`** GitHub Action included in this package.
-
 ## 📅 Contribution Calendar
 
 <div align="center">
 
 <img src="https://ghchart.rshah.org/2563eb/Joshb-hub" alt="GitHub Contribution Calendar"/>
-
-</div>
-
-## 🧠 Coding Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Joshb-hub&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
