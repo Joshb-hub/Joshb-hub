@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:2563EB,100:06B6D4&text=Joshita%20Bhattacharyya&fontColor=ffffff&fontSize=50&fontAlignY=32&animation=fadeIn&desc=Software%20Developer%20•%20Frontend%20•%20AI%20•%20Power%20BI%20•%20LinkedIn%20Outreach&descAlignY=52"/>
 
-<img src="assets/girl-coding-pixel.svg" alt="Pixel art of a girl coding" width="360"/>
+<img src="girl-coding-pixel.svg" alt="Pixel art of a girl coding" width="360"/>
 
 </div>
 
