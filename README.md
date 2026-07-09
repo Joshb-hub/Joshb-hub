@@ -1,13 +1,25 @@
 <!-- ========================================================= -->
 <!--                    JOSHITA BHATTACHARYYA                   -->
-<!--    Software Developer • Frontend • AI • Data Analytics     -->
+<!--   Software Developer • Frontend • AI • Power BI • LinkedIn Outreach   -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# Joshita Bhattacharyya
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:2563EB,100:06B6D4&text=Joshita%20Bhattacharyya&fontColor=ffffff&fontSize=50&fontAlignY=32&animation=fadeIn&desc=Software%20Developer%20•%20Frontend%20•%20AI%20•%20Power%20BI%20•%20LinkedIn%20Outreach&descAlignY=52"/>
 
-<img src="assets/animations/girl-coding-pixel-art.svg" width="380" alt="Pixel art animation of a girl coding"/>
+<img src="assets/girl-coding-pixel.svg" alt="Pixel art of a girl coding" width="360"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# Hi 👋 I'm Joshita Bhattacharyya
+
+### Software Developer • Frontend • AI • Power BI • LinkedIn Outreach
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Developer;Frontend+Developer;AI+Enthusiast;Power+BI+Developer;LinkedIn+Outreach+%7C+Networking;Always+Learning+Always+Building"/>
 
 </div>
 
