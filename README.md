@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:2563EB,100:06B6D4&text=Joshita%20Bhattacharyya&fontColor=ffffff&fontSize=50&fontAlignY=32&animation=fadeIn&desc=Software%20Developer%20•%20Frontend%20•%20AI%20•%20Power%20BI%20•%20LinkedIn%20Outreach&descAlignY=52"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:2563EB,100:06B6D4&text=Joshita%20Bhattacharyya&fontColor=ffffff&fontSize=50&fontAlignY=50&animation=fadeIn"/>
 
 <img src="girl-coding-pixel.svg" alt="Pixel art of a girl coding" width="360"/>
 
@@ -40,12 +40,6 @@
 <a href="mailto:joshitabhattacharyya@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Joshb-hub&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 <img src="https://img.shields.io/github/followers/Joshb-hub?style=for-the-badge&logo=github"/>
@@ -629,7 +623,7 @@ Currently Learning:
 
 <div align="center">
 
-<img width="100%" src="github-metrics.svg"/>
+<img width="100%" src="metrics.yml"/>
 
 </div>
 
