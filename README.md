@@ -5,19 +5,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:2563EB,100:06B6D4&text=Joshita%20Bhattacharyya&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20•%20AI%20Enthusiast%20•%20Building%20Intelligent%20Applications&descAlignY=58"/>
+# Joshita Bhattacharyya
 
-</div>
-
----
-
-<div align="center">
-
-# Hi 👋 I'm Joshita Bhattacharyya
-
-### Software Developer • Frontend • AI • Data Analytics
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Frontend+Developer;Building+AI-Powered+Applications;React+%7C+Python+%7C+TailwindCSS;Generative+AI+%7C+RAG+Systems;Power+BI+Developer;Always+Learning+Always+Building"/>
+<img src="assets/animations/girl-coding-pixel-art.svg" width="380" alt="Pixel art animation of a girl coding"/>
 
 </div>
 
@@ -128,9 +118,6 @@ Currently Learning:
 ## 🤖 Artificial Intelligence & Generative AI
 
 <p>
-<img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0466C8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-7B2CBF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG%20Systems-0096C7?style=for-the-badge"/>
