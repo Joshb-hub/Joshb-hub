@@ -4,11 +4,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF6EC7,50:7B2CBF,100:00E0FF&text=hey,%20it's%20joshita%20✦&fontColor=ffffff&fontSize=38&fontAlignY=38&animation=twinkling&desc=frontend%20dev%20%C2%B7%20AI%20tinkerer%20%C2%B7%20dashboard%20nerd&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF6EC7,50:7B2CBF,100:00E0FF&text=hey,%20it's%20joshita%20✦&fontColor=ffffff&fontSize=38&fontAlignY=38&animation=twinkling&desc=aspiring%20software%20%2F%20backend%20engineer%20%C2%B7%20AI%20enthusiast&descAlignY=58&descSize=17"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&duration=2800&pause=900&color=00E0FF&center=true&vCenter=true&width=800&lines=building+with+React+%26+AI+%F0%9F%A7%A0;RAG+systems+%2B+LLMs+%3D+%3D%3E+chaos+tamed;Power+BI+dashboards+that+slap;always+shipping%2C+always+learning"/>
+<img src="girl-coding-pixel.svg" alt="Pixel art of a girl coding" width="260"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&duration=2800&pause=900&color=00E0FF&center=true&vCenter=true&width=800&lines=aspiring+software+%26+backend+engineer;AI+%2F+ML+enthusiast+%F0%9F%A7%A0;Power+BI+dashboards+that+slap;business+analyst+with+an+outreach+streak"/>
 
 <br/><br/>
 
@@ -26,13 +30,13 @@
 ## ⋆｡˚ the vibe check ˚｡⋆
 
 ```yaml
-role: Frontend Dev × AI Builder × Data Storyteller
+role: Aspiring Software Engineer × Backend Engineer × AI Enthusiast × Business Analyst
 degree: B.Tech in Electronics & Communication (CGPA 7.85)
-currently: MERN · System Design · Agentic AI · Advanced RAG
+currently: MERN · System Design · Dynamic Programming · Gen AI basics
 energy: 100+ DSA problems solved, 2x Smart India Hackathon, zero chill about clean UI
 ```
 
-I build things that live at the intersection of clean interfaces and smart systems — think React frontends talking to AI pipelines, or raw spreadsheets turning into dashboards people actually want to look at. Still very much in build-and-break-things mode, and loving every part of it.
+I'm building toward backend + software engineering roles, with a genuine curiosity for AI/ML on the side and a Power BI + outreach background that keeps me equally comfortable talking to data and to people. Still very much in build-and-break-things mode, and loving every part of it.
 
 ---
 
@@ -44,9 +48,9 @@ I build things that live at the intersection of clean interfaces and smart syste
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Generative_AI-FF6EC7?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG_Systems-7B2CBF?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-00E0FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_%2F_ML-FF6EC7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative_AI_(basics)-7B2CBF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-00E0FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/DAX-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/System_Design-14B8A6?style=flat-square"/>
@@ -57,16 +61,16 @@ I build things that live at the intersection of clean interfaces and smart syste
 
 ## 🚀 projects i've actually shipped
 
-### 🛡️ AegisRAG — *query-adaptive RAG that reads the room*
+### 🛡️ AegisRAG — *query-adaptive PDF Q&A system*
 
-Most RAG systems treat every question the same way — fixed retrieval, fixed context window, hope for the best. AegisRAG doesn't. It classifies incoming queries first, then dynamically adjusts its top-K retrieval strategy based on how complex or specific the question actually is, before generating a context-aware answer from the source PDF.
+Most retrieval systems treat every question the same way — fixed context, hope for the best. AegisRAG doesn't. It classifies incoming queries first, then dynamically adjusts how much context it pulls in based on how complex the question actually is, before generating an answer from the source PDF.
 
 - 🧠 Intelligent query classification before retrieval even happens
-- 🎯 Dynamic top-K — simple questions get lean context, complex ones get deep context
+- 🎯 Dynamic retrieval depth — simple questions get lean context, complex ones get deep context
 - 🔍 Semantic search across PDF content instead of dumb keyword matching
 - 📄 Built for real document understanding, not just Q&A theater
 
-`Python` `LangChain` `FAISS` `Streamlit` `HuggingFace` `LLMs`
+`Python` `FAISS` `Streamlit` `HuggingFace`
 → [source](https://github.com/Joshb-hub/AegisRAG)
 
 ---
@@ -159,7 +163,7 @@ Worked on turning raw, unstructured datasets into dashboards people could actual
 ---
 
 ### 📈 Business Development Intern — Banao Technologies
-Bridged technical and business teams — less code, more strategy and communication.
+Bridged technical and business teams as a business analyst focused on outreach — less code, more strategy and communication.
 - Ran large-scale professional outreach campaigns
 - Assisted with SEO initiatives to boost visibility
 - Improved internal communication tracking workflows
@@ -208,10 +212,10 @@ Bridged technical and business teams — less code, more strategy and communicat
 
 ```python
 learning = {
-    "Frontend": ["React", "Advanced JavaScript", "Redux", "Performance Optimization"],
     "Backend": ["Node.js", "Express.js", "MongoDB", "REST APIs"],
-    "AI": ["Advanced RAG", "Agentic AI", "LangChain", "LLM Applications"],
-    "CS Core": ["System Design", "Dynamic Programming", "Software Architecture"]
+    "CS Core": ["System Design", "Dynamic Programming", "Software Architecture"],
+    "AI": ["AI / ML fundamentals", "Generative AI basics", "Prompt Engineering"],
+    "Frontend": ["React", "Advanced JavaScript", "Performance Optimization"]
 }
 ```
 
@@ -221,7 +225,7 @@ learning = {
 
 ### 💭 *"technology hits different when it actually solves real problems"*
 
-⭐ star a repo if you rock with this &nbsp;·&nbsp; 💬 always down to talk AI, frontend, or dashboards
+⭐ star a repo if you rock with this &nbsp;·&nbsp; 💬 always down to talk backend, AI, or dashboards
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,50:7B2CBF,100:FF6EC7&height=120&section=footer"/>
 
