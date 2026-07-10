@@ -32,6 +32,8 @@ currently: MERN · System Design · Agentic AI · Advanced RAG
 energy: 100+ DSA problems solved, 2x Smart India Hackathon, zero chill about clean UI
 ```
 
+I build things that live at the intersection of clean interfaces and smart systems — think React frontends talking to AI pipelines, or raw spreadsheets turning into dashboards people actually want to look at. Still very much in build-and-break-things mode, and loving every part of it.
+
 ---
 
 ## ⚡ stack i vibe with
@@ -53,36 +55,118 @@ energy: 100+ DSA problems solved, 2x Smart India Hackathon, zero chill about cle
 
 ---
 
-## 🚀 stuff i built (that i'm actually proud of)
+## 🚀 projects i've actually shipped
 
-### 🛡️ AegisRAG — *smart PDF Q&A that adapts to your query*
-Query-adaptive RAG framework with dynamic top-K retrieval + semantic search, so answers actually match the question's vibe.
-`Python` `LangChain` `FAISS` `Streamlit` `HuggingFace`
+### 🛡️ AegisRAG — *query-adaptive RAG that reads the room*
+
+Most RAG systems treat every question the same way — fixed retrieval, fixed context window, hope for the best. AegisRAG doesn't. It classifies incoming queries first, then dynamically adjusts its top-K retrieval strategy based on how complex or specific the question actually is, before generating a context-aware answer from the source PDF.
+
+- 🧠 Intelligent query classification before retrieval even happens
+- 🎯 Dynamic top-K — simple questions get lean context, complex ones get deep context
+- 🔍 Semantic search across PDF content instead of dumb keyword matching
+- 📄 Built for real document understanding, not just Q&A theater
+
+`Python` `LangChain` `FAISS` `Streamlit` `HuggingFace` `LLMs`
 → [source](https://github.com/Joshb-hub/AegisRAG)
 
-### 📊 E-Commerce Sales Dashboard — *numbers, but make them beautiful*
-Interactive Power BI dashboard turning raw sales data into KPI tracking, regional insights & exec-ready reports.
-`Power BI` `DAX` `Power Query`
+---
+
+### 📊 E-Commerce Sales Dashboard — *raw data, glow-up edition*
+
+Took messy e-commerce sales data and turned it into a full Power BI business intelligence layer — the kind of dashboard an actual exec team could open and immediately understand what's working and what's not.
+
+- 💰 Revenue & profit breakdowns tracked over time
+- 📍 Regional sales analysis to spot where growth is happening
+- 🛍️ Product performance views to flag top and underperforming SKUs
+- 👥 Customer behavior insights baked into the model
+- ⚙️ Cleaned, transformed, and modeled the data end-to-end with Power Query + DAX
+
+`Power BI` `DAX` `Power Query` `Data Modeling`
 → [source](https://github.com/Joshb-hub/ECommerce-Sales-Dashboard)
 
-### 🎓 EduBridge · 🩺 SwasthyaSetu · 🤝 SkillSwap
-Three responsive, accessibility-first web platforms — for learning resources, health education, and peer skill exchange.
+---
+
+### 🎓 EduBridge — *one place for all your learning resources*
+
+A centralized learning platform built to cut through the chaos of scattered study material. Organized navigation, subject-wise resources, and a UI that doesn't fight you.
+
+- 📚 Subject-wise structured content organization
+- 📱 Fully responsive, mobile-first layout
+- ♿ Accessibility baked in from the start, not bolted on later
+- 🧩 Reusable component architecture for easy scaling
+
 `HTML5` `CSS3` `TailwindCSS`
-→ [EduBridge](https://github.com/Joshb-hub/EduBridge) · [SwasthyaSetu](https://github.com/Joshb-hub/SwasthyaSetu) · [SkillSwap](https://github.com/Joshb-hub/SkillSwap)
+→ [source](https://github.com/Joshb-hub/EduBridge)
+
+---
+
+### 🩺 SwasthyaSetu — *health info, minus the confusion*
+
+A health education platform designed to make important information genuinely easy to find and read — clean interface, structured content, zero clutter.
+
+- 🩹 Structured health education content delivery
+- 🧭 User-centric, intuitive navigation
+- 📖 UI tuned specifically for content readability
+- 📲 Fully responsive across devices
+
+`HTML5` `CSS3` `TailwindCSS`
+→ [source](https://github.com/Joshb-hub/SwasthyaSetu)
+
+---
+
+### 🤝 SkillSwap — *trade skills, not money*
+
+A peer-to-peer platform where people list what they know and swap it for what they want to learn — think bartering, but for skills.
+
+- 🔎 Skill discovery system to browse what others offer
+- 🪪 Categorized, structured user profiles
+- 🔁 Clear interaction workflows for proposing swaps
+- ♿ Accessibility-focused UX throughout
+
+`HTML5` `CSS3` `TailwindCSS`
+→ [source](https://github.com/Joshb-hub/SkillSwap)
 
 <div align="center">
-<sub>✦ more drops coming soon ✦</sub>
+<sub>✦ more drops coming soon — watch this space ✦</sub>
 </div>
 
 ---
 
-## 💼 where i've worked
+## 💼 where i've worked (and what i actually did there)
 
-| role | company | what i actually did |
-|---|---|---|
-| 🌐 Web Dev Intern | Webstack Academy | Built responsive React UIs, wired up REST APIs |
-| 📊 Power BI Intern | Microsoft Elevate (AICTE) | Built dashboards, DAX-powered KPI reports |
-| 📈 Business Dev Intern | Banao Technologies | Outreach, SEO, workflow automation |
+### 🌐 Web Developer Intern — Webstack Academy
+Focused on building responsive, user-centric web interfaces and getting comfortable with real-world frontend workflows.
+- Built React-based interfaces from the ground up
+- Integrated REST APIs into frontend applications
+- Improved UI responsiveness and accessibility across pages
+- Built reusable UI components to speed up development
+- Worked within modern frontend best practices and team workflows
+
+`React` `JavaScript` `HTML5` `CSS3` `REST API`
+
+---
+
+### 📊 Power BI Intern — Microsoft Elevate (AICTE)
+Worked on turning raw, unstructured datasets into dashboards people could actually make decisions from.
+- Designed and built interactive Power BI dashboards
+- Cleaned and transformed messy datasets for analysis
+- Developed DAX-powered KPI reports
+- Delivered actionable business insights from raw data
+- Iterated on dashboard usability based on feedback
+
+`Power BI` `DAX` `Power Query` `Data Modeling`
+
+---
+
+### 📈 Business Development Intern — Banao Technologies
+Bridged technical and business teams — less code, more strategy and communication.
+- Ran large-scale professional outreach campaigns
+- Assisted with SEO initiatives to boost visibility
+- Improved internal communication tracking workflows
+- Supported workflow automation efforts
+- Collaborated cross-functionally with technical and business teams
+
+`SEO` `CRM` `Communication` `Automation`
 
 ---
 
@@ -93,13 +177,15 @@ Three responsive, accessibility-first web platforms — for learning resources, 
 <img src="https://img.shields.io/badge/Oracle_AI_Foundations-98%25_score-1E3A8A?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI_Certified-Microsoft_Elevate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-Reliance_Foundation-1E40AF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Career_Essentials-Microsoft_%26_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intro_to_Programming-IBM_%26_freeCodeCamp-1E3A8A?style=for-the-badge&logo=ibm&logoColor=white"/>
 
 </div>
 
-- 🏆 Smart India Hackathon — participant (2023 & 2024)
-- 🏅 Unstop Talent Awards 2026
-- 🧠 100+ DSA problems solved
-- 🎯 TATA Crucible Campus Quiz — participant
+- 🏆 **Smart India Hackathon** — participant, 2023 & 2024 — collaborated in multidisciplinary teams to design tech solutions for real-world problems
+- 🏅 **Unstop Talent Awards 2026** — recognized for active participation and technical excellence
+- 🧠 **100+ DSA problems solved** — sharpened algorithmic thinking, one problem at a time
+- 🎯 **TATA Crucible Campus Quiz** — participant, one of India's premier business quiz competitions
 
 ---
 
@@ -115,6 +201,19 @@ Three responsive, accessibility-first web platforms — for learning resources, 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joshb-hub&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
+
+## 📚 currently learning
+
+```python
+learning = {
+    "Frontend": ["React", "Advanced JavaScript", "Redux", "Performance Optimization"],
+    "Backend": ["Node.js", "Express.js", "MongoDB", "REST APIs"],
+    "AI": ["Advanced RAG", "Agentic AI", "LangChain", "LLM Applications"],
+    "CS Core": ["System Design", "Dynamic Programming", "Software Architecture"]
+}
+```
 
 ---
 
