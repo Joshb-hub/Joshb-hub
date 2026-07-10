@@ -184,7 +184,9 @@ Currently Learning:
 </div>
 
 <div align="center">
-<img src="assets/screenshots/aegisrag.png" alt="AegisRAG" width="85%"/>
+  <img src="Screenshot%202026-07-10%20050414.png"
+       alt="AegisRAG Home Interface"
+       width="85%">
 </div>
 
 ### 🛠 Tech Stack
