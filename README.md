@@ -44,14 +44,9 @@ I'm building toward backend + software engineering roles, with a genuine curiosi
 
 <div align="center">
 
-```
-┌─────────────────┬─────────────────┬─────────────────┬─────────────────┐
-│   🎓 EDUCATION   │   💻 FOCUS       │   📍 LOCATION    │   💡 DRIVEN BY  │
-├─────────────────┼─────────────────┼─────────────────┼─────────────────┤
-│  B.Tech ECE      │ Backend + AI     │      India       │  curiosity &    │
-│  CGPA 7.85       │ + Power BI       │                  │  clean systems  │
-└─────────────────┴─────────────────┴─────────────────┴─────────────────┘
-```
+| 🎓 Education | 💻 Focus | 📍 Location | 💡 Driven by |
+|:---:|:---:|:---:|:---:|
+| B.Tech ECE · CGPA 7.85 | Backend + AI + Power BI | India | Curiosity & clean systems |
 
 </div>
 
@@ -296,5 +291,7 @@ learning = {
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,50:7B2CBF,100:FF6EC7&height=120&section=footer"/>
+
+**© Joshita Bhattacharyya. All rights reserved.**
 
 </div>
