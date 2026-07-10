@@ -21,7 +21,11 @@
 <a href="https://github.com/Joshb-hub"><img src="https://img.shields.io/badge/GitHub-explore-00E0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000"/></a>
 <a href="mailto:joshitabhattacharyya@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-FFD60A?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000"/></a>
 
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Joshb-hub&label=profile+views&style=for-the-badge&color=7B2CBF"/>
+<img src="https://img.shields.io/github/followers/Joshb-hub?style=for-the-badge&logo=github&color=00E0FF&labelColor=000"/>
+<img src="https://img.shields.io/badge/status-open_to_work-FF6EC7?style=for-the-badge&labelColor=000"/>
 
 </div>
 
@@ -38,6 +42,19 @@ energy: 100+ DSA problems solved, 2x Smart India Hackathon, zero chill about cle
 
 I'm building toward backend + software engineering roles, with a genuine curiosity for AI/ML on the side and a Power BI + outreach background that keeps me equally comfortable talking to data and to people. Still very much in build-and-break-things mode, and loving every part of it.
 
+<div align="center">
+
+```
+┌─────────────────┬─────────────────┬─────────────────┬─────────────────┐
+│   🎓 EDUCATION   │   💻 FOCUS       │   📍 LOCATION    │   💡 DRIVEN BY  │
+├─────────────────┼─────────────────┼─────────────────┼─────────────────┤
+│  B.Tech ECE      │ Backend + AI     │      India       │  curiosity &    │
+│  CGPA 7.85       │ + Power BI       │                  │  clean systems  │
+└─────────────────┴─────────────────┴─────────────────┴─────────────────┘
+```
+
+</div>
+
 ---
 
 ## ⚡ stack i vibe with
@@ -48,14 +65,31 @@ I'm building toward backend + software engineering roles, with a genuine curiosi
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI_%2F_ML-FF6EC7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative_AI_(basics)-7B2CBF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-00E0FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/System_Design-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/AI_%2F_ML-FF6EC7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI_(basics)-7B2CBF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-00E0FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-14B8A6?style=for-the-badge"/>
 
 </div>
+
+<details>
+<summary><b>🎚️ tap for a rough skill breakdown</b></summary>
+<br/>
+
+```text
+React.js         ████████████████████░░░░  80%
+JavaScript       ███████████████████░░░░░  76%
+Python           ██████████████████░░░░░░  72%
+Power BI / DAX   ████████████████████░░░░  82%
+Node.js          ███████████████░░░░░░░░░  60%
+AI / ML basics   ██████████████░░░░░░░░░░  56%
+System Design    █████████████░░░░░░░░░░░  52%
+```
+
+</details>
 
 ---
 
@@ -191,6 +225,12 @@ Bridged technical and business teams as a business analyst focused on outreach �
 - 🧠 **100+ DSA problems solved** — sharpened algorithmic thinking, one problem at a time
 - 🎯 **TATA Crucible Campus Quiz** — participant, one of India's premier business quiz competitions
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Joshb-hub&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+
+</div>
+
 ---
 
 ## 📈 the numbers
@@ -206,6 +246,14 @@ Bridged technical and business teams as a business analyst focused on outreach �
 
 </div>
 
+### 📅 contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
 ---
 
 ## 📚 currently learning
@@ -215,9 +263,25 @@ learning = {
     "Backend": ["Node.js", "Express.js", "MongoDB", "REST APIs"],
     "CS Core": ["System Design", "Dynamic Programming", "Software Architecture"],
     "AI": ["AI / ML fundamentals", "Generative AI basics", "Prompt Engineering"],
-    "Frontend": ["React", "Advanced JavaScript", "Performance Optimization"]
+    "Frontend": ["React.js", "Advanced JavaScript", "Performance Optimization"]
 }
 ```
+
+---
+
+## ✨ a few random facts about me
+
+<div align="center">
+
+| | |
+|---|---|
+| 🌙 | codes best late at night, chai mandatory |
+| 🧩 | genuinely enjoys DSA more than she'll admit |
+| 📊 | will turn any spreadsheet into a dashboard, unprompted |
+| 🗣️ | comfortable pitching to a client *and* debugging a stack trace in the same day |
+| 🎯 | goal: backend engineer who still cares about good UX |
+
+</div>
 
 ---
 
@@ -225,7 +289,11 @@ learning = {
 
 ### 💭 *"technology hits different when it actually solves real problems"*
 
-⭐ star a repo if you rock with this &nbsp;·&nbsp; 💬 always down to talk backend, AI, or dashboards
+⭐ star a repo if you rock with this &nbsp;·&nbsp; 💬 always down to talk backend, AI, or dashboards &nbsp;·&nbsp; 🤝 open to collabs & opportunities
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,50:7B2CBF,100:FF6EC7&height=120&section=footer"/>
 
