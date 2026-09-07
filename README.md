@@ -121,6 +121,29 @@ A peer-to-peer platform where people list what they know and swap it for what th
 
 `HTML5` `CSS3` `TailwindCSS` — [→ source]()
 
+### 🛡️ AegisRAG — query-adaptive PDF Q&A system
+
+Most retrieval systems treat every question the same way — fixed context, hope for the best. AegisRAG doesn't. It classifies incoming queries first, then dynamically adjusts how much context it pulls in based on how complex the question actually is, before generating an answer from the source PDF.
+
+- 🧠 Intelligent query classification before retrieval even happens
+- 🎯 Dynamic retrieval depth — simple questions get lean context, complex ones get deep context
+- 🔍 Semantic search across PDF content instead of dumb keyword matching
+- 📄 Built for real document understanding, not just Q&A theater
+
+`Python` `FAISS` `Streamlit` `HuggingFace` — [→ source]()
+
+### 📊 E-Commerce Sales Dashboard — raw data, glow-up edition
+
+Took messy e-commerce sales data and turned it into a full Power BI business intelligence layer — the kind of dashboard an actual exec team could open and immediately understand what's working and what's not.
+
+- 💰 Revenue & profit breakdowns tracked over time
+- 📍 Regional sales analysis to spot where growth is happening
+- 🛍️ Product performance views to flag top and underperforming SKUs
+- 👥 Customer behavior insights baked into the model
+- ⚙️ Cleaned, transformed, and modeled the data end-to-end with Power Query + DAX
+
+`Power BI` `DAX` `Power Query` `Data Modeling` — [→ source]()
+
 <div align="center">
 <sub>✦ more drops coming soon — watch this space ✦</sub>
 </div>
@@ -150,6 +173,30 @@ Focused on building responsive, user-centric web interfaces and getting comforta
 - Improved cross-device compatibility, cutting UI inconsistencies across 10+ components through iterative testing
 
 `React` `JavaScript` `HTML5` `CSS3` `REST API`
+
+### 📊 Power BI Intern — Microsoft Elevate (AICTE)
+
+Worked on turning raw, unstructured datasets into dashboards people could actually make decisions from.
+
+- Designed and built interactive Power BI dashboards
+- Cleaned and transformed messy datasets for analysis
+- Developed DAX-powered KPI reports
+- Delivered actionable business insights from raw data
+- Iterated on dashboard usability based on feedback
+
+`Power BI` `DAX` `Power Query` `Data Modeling`
+
+### 📈 Business Development Intern — Banao Technologies
+
+Bridged technical and business teams as a business analyst focused on outreach — less code, more strategy and communication.
+
+- Ran large-scale professional outreach campaigns
+- Assisted with SEO initiatives to boost visibility
+- Improved internal communication tracking workflows
+- Supported workflow automation efforts
+- Collaborated cross-functionally with technical and business teams
+
+`SEO` `CRM` `Communication` `Automation`
 
 <br/>
 
