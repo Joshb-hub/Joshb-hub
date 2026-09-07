@@ -34,7 +34,7 @@ I'm building toward backend + software engineering roles, with a genuine curiosi
 
 | 🎓 Education | 💻 Focus | 📍 Location | 💡 Driven by |
 |:---:|:---:|:---:|:---:|
-| B.Tech ECE · CGPA 7.85 | Backend + AI + Power BI | India | Curiosity & clean systems |
+| B.Tech ECE · CGPA 7.93 | Backend + AI + Power BI | India | Curiosity & clean systems |
 
 </div>
 
