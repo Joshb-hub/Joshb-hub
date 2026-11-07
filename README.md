@@ -88,17 +88,6 @@ Power BI / DAX   ████████████████████░
 
 ## 🚀 projects i've actually shipped
 
-### 🎓 EduBridge — one place for all your learning resources
-**Dec 2025 – May 2026**
-
-A centralized learning platform built to cut through the chaos of scattered study material. Organized navigation, subject-wise resources, and a UI that doesn't fight you.
-
-- 📚 10+ reusable UI components, with structured navigation across 5+ categorized modules
-- 📱 Accessibility-focused, performance-oriented practices for cross-browser support across 3+ device breakpoints
-- 🧩 Built for content discoverability first
-
-`HTML5` `CSS3` `TailwindCSS` — [→ source]()
-
 ### 🩺 SwasthyaSetu — health info, minus the confusion
 **Dec 2025 – May 2026**
 
@@ -155,11 +144,9 @@ Took messy e-commerce sales data and turned it into a full Power BI business int
 ### ⚙️ Systems Engineer Trainee — Surelia Infosystems Private Ltd.
 **Aug 2026 – Present**
 
-Undergoing structured training focused on AI-assisted development and full-stack/cloud fundamentals to get enterprise-ready.
-
-- Undergoing structured training in Claude Code and prompt engineering to build proficiency in AI-assisted, agentic development workflows
-- Completing hands-on modules in Next.js, Microsoft Azure Fundamentals, and the Azure practical guide to strengthen full-stack and cloud development skills
-- Learning Microsoft MSAL and React-based authentication integration to build secure, enterprise-ready web applications
+- Building proficiency in AI-assisted and agentic development workflows through hands-on training in Claude Code and advanced prompt engineering.
+- Completing practical training in Next.js, Microsoft Azure Fundamentals, and Azure cloud services to strengthen full-stack and cloud development capabilities.
+- Learning Microsoft Authentication Library (MSAL) and React-based authentication integration to develop secure, enterprise-ready web applications.
 
 `Claude Code` `Prompt Engineering` `Next.js` `Azure` `MSAL` `React`
 
